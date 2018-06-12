@@ -41,8 +41,8 @@ def yandex(text):
 	words = sorted(set(words))
 
 
-	print(type(words))
-	print(words)
+
+
 
 	for word in words:
 
